@@ -1,0 +1,15 @@
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\bin\Release\net6.0\Blackjack.exe
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\bin\Release\net6.0\Blackjack.deps.json
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\bin\Release\net6.0\Blackjack.runtimeconfig.json
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\bin\Release\net6.0\Blackjack.dll
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\bin\Release\net6.0\Blackjack.pdb
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.dll
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\refint\Blackjack.dll
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.pdb
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\Federico\Documents\Pokemon c#\Blackjack\obj\Release\net6.0\ref\Blackjack.dll
